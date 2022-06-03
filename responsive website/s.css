@@ -1,0 +1,20 @@
+.back{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(bg.png);
+    height: 100vh;
+    background-size: cover;
+}
+.back h3{
+    font-size: 2rem;
+    color: white;
+}
+.nav ul{
+    display: flex;
+    float: right;
+}
+.nav ul li{
+    list-style: none;
+}
+.nav ul li a{
+    color: white;
+    padding: 10px;
+}
